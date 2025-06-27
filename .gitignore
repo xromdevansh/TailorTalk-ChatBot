@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+
+venv/
+.env
+
+tailor-talk-agent-448fcde5f672.json
+
+.streamlit/config.toml
+.streamlit/secrets.toml
